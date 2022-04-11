@@ -1,0 +1,8 @@
+This purpose of this project, is to extract data from punchng.com for the past 30 days. 
+Plan to scrape > 50 pages of punchng.com
+Extract the tags from each page and store the date_written, tags, article_title, author, section['Politics', 'Sport'] and store in a csv
+Parse the data using pandas
+Find the most popular tags
+Find the author with the most articles.
+Find the day of the week with the most articles.
+
